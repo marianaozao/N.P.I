@@ -16,3 +16,9 @@ footer{
         padding: 20px;
     
 }
+#CABECALHO {
+    background-color: pink;
+}
+nav{
+    background-color: aquamarine;
+}
