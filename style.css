@@ -1,24 +1,23 @@
-.botao {
-    text-decoration: none;
+
+html, body {
+    height: 100%;
+    margin: 0;
 }
 
-a{
-    text-decoration: none;
-    color: rgb(167, 11, 146);
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
 }
-main{
-    margin-bottom: 600px;
+
+main {
+    flex: 1;
 }
-footer{
-        background: #333;
-        color: white;
-        text-align: center;
-        padding: 20px;
-    
-}
-#CABECALHO {
-    background-color: pink;
-}
-nav{
-    background-color: aquamarine;
+
+#rodape {
+
+    background-color: #e5a2d1;
+    padding: 20px;
+    text-align: center;
+
 }
